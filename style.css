@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    color: whitesmoke;
+}
+#welcome{
+    background: linear-gradient(deeppink 0%, cyan 100%);
+}
+img{
+    width: 400px;
+    height: 250px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+marquee{
+    font-size: 35px;
+    background-color:dodgerblue;
+    font-family: 'Caveat Brush';
+    margin-bottom: 15px;
+}
+h1,h3,p{
+    font-family: 'Satisfy';
+    
+}
+iframe{
+    margin-bottom: 50px;;
+}
+h3,p{
+    font-size: 35px;
+}
+#life{
+    background: linear-gradient(rgb(241, 92, 92) 0%, darkblue 100% );
+}
+section{
+    overflow: hidden;
+}
+#acheivements{
+    background: linear-gradient(yellow 0%, deeppink 100% );
+}
+#contact p,a{
+    background-color: transparent !important;
+    color: black;
+}
+#contact{
+   background: linear-gradient(red 0%, blue 100%); 
+}
+#contact a:hover{
+    color: whitesmoke;
+}
+#acheivements p{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-right: 15px;
+}
+div .certificate_head{
+    font-size: 21px;
+    border-radius: 10px;
+    width: 1000px;
+}
+#new{
+    background: linear-gradient(yellow 0%, darkgreen 100%);
+}
+.new_li{
+    margin-left: 200px;
+    padding-right: 0px;
+    list-style: none;
+}
+#image{
+   width: 250px;
+   height: 250px;
+}
+.p_modal,.modal-title{
+    color: darkblue;
+}
+#drthangadurai{
+    padding-top: 50px;
+}
+.alumni:hover{
+    cursor: pointer;
+}
+
